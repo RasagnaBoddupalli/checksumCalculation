@@ -1,5 +1,4 @@
 #include "checksumCalculation.h"
-//void  verifyEqual(string input, string expectedOutput, string testID);
 
 void  verifyEqual(string input, string expectedOutput, string testID) {
 	if (!input.compare(expectedOutput)) {
